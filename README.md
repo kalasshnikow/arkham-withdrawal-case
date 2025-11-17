@@ -74,6 +74,6 @@ Arkham is invited to provide a **public, citable statement** and/or a **dated wi
 ---
 
 ## Contact
-- Media / oversight: **[add your press email]**  
+- Media / oversight: 00demure.walleye@icloud.com  
 - Case ID / GitHub issues welcome for questions about the evidence pack.
 
