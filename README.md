@@ -33,11 +33,10 @@ This aligns with:
 
 ## Quick links
 - **Full Timeline:** [`/TIMELINE.md`](./TIMELINE.md)  
-- **Screenshots:** [`/evidence/screenshots/`](./evidence/screenshots/)  
 - **Emails (PDF):** [`/evidence/emails/`](./evidence/emails/)  
 - **Discord tickets:** [`/evidence/discord/`](./evidence/discord/)  
-- **On-chain refs:** [`/onchain/`](./onchain/)  
-- **Checksums:** [`/checksums/sha256.txt`](./checksums/sha256.txt)
+
+
 
 ---
 
@@ -66,10 +65,6 @@ This aligns with:
 > **Note on privacy:** redact PII in screenshots (emails, account IDs, IPs).  
 > **Integrity:** we publish SHA-256 checksums; releases may bundle a frozen snapshot.
 
----
-
-## Right to reply
-Arkham is invited to provide a **public, citable statement** and/or a **dated withdrawal-only plan**; I will append it here and in the Timeline.
 
 ---
 
