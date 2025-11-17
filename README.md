@@ -52,3 +52,28 @@ This aligns with:
 ---
 
 ## Repository layout
+/README.md ← you are here
+/TIMELINE.md ← dated log with links to artifacts
+/evidence/screenshots/ ← UI, notifications, error screens
+/evidence/emails/ ← email PDFs (redacted)
+/evidence/discord/ ← ticket screenshots/PDFs (redacted)
+/onchain/ ← tx hashes, addresses, signed messages
+/checksums/sha256.txt ← file integrity list
+/wayback/ ← links to archived pages (ToS, update, etc.)
+/legal/ ← short ToS excerpts + links
+
+
+> **Note on privacy:** redact PII in screenshots (emails, account IDs, IPs).  
+> **Integrity:** we publish SHA-256 checksums; releases may bundle a frozen snapshot.
+
+---
+
+## Right to reply
+Arkham is invited to provide a **public, citable statement** and/or a **dated withdrawal-only plan**; I will append it here and in the Timeline.
+
+---
+
+## Contact
+- Media / oversight: **[add your press email]**  
+- Case ID / GitHub issues welcome for questions about the evidence pack.
+
